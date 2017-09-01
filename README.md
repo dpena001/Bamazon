@@ -3,12 +3,12 @@
 
 ### bamazonCustomer.js 
    bamazonCustomer.js is just like a "Online Shopping Store" where customers make items orders depending on availability in stock.
-   This app not only takes orders also decreases items stocks for each order. This app considers 2 (Read and Update) of 4 basic functions of persistent storage in a one Mysql table
+   This app not only takes orders also decreases items stocks for each order. This app considers 2 (Read and Update) of 4 basic functions of persistent storage in a Mysql table
 *  View the app running at: <https://www.youtube.com/watch?v=_BKhjuaJ7ds>
 
 ### bamazonManager.js 
    bamazonManager.js is just like a "back end app" to support the "Online Store" where Manager and staff replenish inventory, add new items, fix items price and assigns their store departments.
-   The app considers 3 (Read, Update, Insert)  of 4 basic functions of persistent storage over a one Mysql table
+   The app considers 3 (Read, Update, Insert)  of 4 basic functions of persistent storage over a Mysql table
 *  View the app running at: <https://www.youtube.com/watch?v=aN8707Lnui4>
 
 ### bamazonSupervisor.js 
